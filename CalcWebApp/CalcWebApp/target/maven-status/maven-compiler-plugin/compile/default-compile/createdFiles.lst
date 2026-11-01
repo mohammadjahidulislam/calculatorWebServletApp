@@ -1,0 +1,8 @@
+com\example\dao\CalculationDAO.class
+com\example\servlet\CalculationServlet.class
+org\example\Main.class
+com\example\model\Calculation.class
+com\example\util\CalcUtil$Result.class
+com\example\util\CalcUtil.class
+com\example\util\DBConnection.class
+com\example\servlet\alculationServlet.class
